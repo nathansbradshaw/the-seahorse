@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTS636_SP43_LFS
+D Tactile Switches Tact 50mA 12VDC, 6.0x3.5, 4.3mm H, 320gf, THT leads, Black Actuator
+K
+F https://componentsearchengine.com/Datasheets/1/PTS636 SP43 LFS.pdf
+$ENDCMP
+#
+#End Doc Library
