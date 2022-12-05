@@ -1,0 +1,81 @@
+
+(rules PCB roadrunner
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1695)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 3.4)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.4)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    BT+ "BT+_r" gnd "gnd_r" reset "reset_r" "unconnected-(SW_POWER1-Pad1)" raw
+    "unconnected-(SW_POWERR1-Pad1)" "raw_r" Switch2 Switch1 Switch11 "Switch1_r" "Switch2_r" Switch6
+    "Switch3_r" Switch12 "Switch4_r" "Switch5_r" Switch7 "Switch6_r" Switch13 "Switch7_r"
+    Switch3 "Switch8_r" Switch8 "Switch9_r" Switch14 "Switch10_r" Switch4 "Switch11_r"
+    Switch9 "Switch12_r" Switch16 "Switch13_r" Switch17 "Switch14_r" Switch15 "Switch15_r"
+    Switch5 "Switch16_r" Switch10 "Switch17_r" Switch18 vcc "Switch18_r" "vcc_r"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

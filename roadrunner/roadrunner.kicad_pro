@@ -366,8 +366,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "",
-      "step": "",
+      "specctra_dsn": "roadrunner.dsn",
+      "step": "roadrunner.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
