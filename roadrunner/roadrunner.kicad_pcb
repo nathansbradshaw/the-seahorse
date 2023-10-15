@@ -7504,7 +7504,7 @@
 
   (footprint "reset_switch:PTS636SP43LFS" (layer "F.Cu")
     (tedit 0) (tstamp e336488c-653d-4f8a-8c7f-0fb2bfc81912)
-    (at 254.1348 84.3547 -90)
+    (at 252.43 84.23 -90)
     (descr "PTS636 SP43 LFS-1")
     (tags "Switch")
     (property "Sheetfile" "roadrunner.kicad_sch")
