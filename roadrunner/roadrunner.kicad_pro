@@ -435,7 +435,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "roadrunner.dsn",
-      "step": "roadrunner.step",
+      "step": "seahorse_v2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
