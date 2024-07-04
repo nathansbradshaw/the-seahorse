@@ -1,7 +1,7 @@
 (footprint "TRRS-PJ-320A" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5ECEB228)
-  (property "Sheetfile" "sweepbling-lp__pcb.kicad_sch")
+  (property "Sheetfile" "seahorse-lp__pcb.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
   (fp_text reference "TRRS1" (at -0.85 4.95 270) (layer "F.Fab")

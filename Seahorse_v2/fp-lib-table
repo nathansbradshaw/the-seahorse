@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "choc_switch")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/kailh_choc")(options "")(descr ""))
+  (lib (name "choc_switch_3d")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/choc")(options "")(descr ""))
+  (lib (name "trrs")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/socket")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/promicro")(options "")(descr ""))
+  (lib (name "battery_switch")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/battery_switch")(options "")(descr ""))
+  (lib (name "reset_switch")(type "KiCad")(uri "${SEAHORSE_REPO}/libraries/reset_switch")(options "")(descr ""))
+)

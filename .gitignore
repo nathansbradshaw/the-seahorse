@@ -7,8 +7,8 @@
 *.bck
 *.kicad_pcb-bak
 *.sch-bak
-*~
-_autosave-*
+*~*
+*_autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
@@ -24,3 +24,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+*roadrunner*.zip

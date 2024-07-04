@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Diode")(type "Legacy")(uri "${SEAHORSE_REPO}/libraries/diodes/Diode.lib")(options "")(descr ""))
+  (lib (name "SSSS811101")(type "KiCad")(uri "/home/nathan/Documents/GitHub/the-seahorse/libraries/battery_switch/SSSS811101.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS636_SP43_LFS")(type "Legacy")(uri "/home/nathan/Documents/GitHub/the-seahorse/libraries/reset_switch/PTS636_SP43_LFS.lib")(options "")(descr ""))
+)

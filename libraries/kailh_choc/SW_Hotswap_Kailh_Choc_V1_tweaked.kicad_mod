@@ -3,7 +3,7 @@
   (tedit 0)
   (descr "Kailh keyswitch Hotswap Socket")
   (tags "Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout")
-  (property "Sheetfile" "sweepbling-lp__pcb.kicad_sch")
+  (property "Sheetfile" "seahorse-lp__pcb.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
   (fp_text reference "SW11" (at 0 -9) (layer "User.1")
