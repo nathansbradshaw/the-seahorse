@@ -2,11 +2,12 @@
 
 ### Materials
 - PLA Filament 
-- M3x8mm flat head Screws
-- M3x6mm flat head screws
+- [M3x8mm flat head Screws](https://www.amazon.com/gp/product/B01N95QH4Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 - M3x10mm flat head screws (TODO check this one)
 - M3 Nuts
-- M3 H4 threaded insert (Optional)
+- [M3 H4 threaded insert (Optional)](https://www.amazon.com/gp/product/B0B46YBNV4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+For the nuts I ended up buying and designing around this [kit](https://www.amazon.com/gp/product/B08N5XDHMW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 Here are the print files I've used to make my keyboard look nice-ish
 
