@@ -1,6 +1,6 @@
 # The Seahorse v2 
 
-A keyboard based on the Ferris Sweep. Complete with a TrackPoint
+34 key keyboard with TP
 
 Link to ZMK code https://github.com/nathansbradshaw/zmk-the-seahorse
 ![the-seahorse board](/photos/seahorse_v2.jpg)

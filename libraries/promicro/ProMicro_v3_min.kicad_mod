@@ -1,7 +1,7 @@
 (footprint "ProMicro_v3_min" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 613B15DB)
-  (property "Sheetfile" "sweepbling-lp__pcb.kicad_sch")
+  (property "Sheetfile" "seahorse-lp__pcb.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole)
   (fp_text reference "U1" (at -1.27 2.762 270) (layer "F.SilkS") hide
