@@ -5,6 +5,8 @@
 Link to ZMK code https://github.com/nathansbradshaw/zmk-the-seahorse
 ![the-seahorse board](/photos/seahorse_v2.jpg)
 
+[![IMAGE ALT TEXT](/photos/video_thumbnail.png)](https://www.youtube.com/watch?v=ttfX7KnK4Xc "Video Title")
+
 
 # BOM
 These are links to what I bought, not necessary to get exactly the same
