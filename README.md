@@ -71,8 +71,3 @@ These are links to what I bought, not necessary to get exactly the same
 
  Total Cost to upgrade with TP: **$24.10 USD**
 
-
- # TODO
- - Update the Print files to be for the new seahorse v2
- - Fix the kicad files being too big. 
- - Remove this todo
