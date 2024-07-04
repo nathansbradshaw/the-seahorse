@@ -5,6 +5,13 @@
 Link to ZMK code https://github.com/nathansbradshaw/zmk-the-seahorse
 ![the-seahorse board](/photos/seahorse_v2.jpg)
 
+Notable Features
+- Track point
+- Vic connection (Cannot be used with Track point connection)
+- Battery Switch
+- Battery connector
+- Nice!View Screen pins
+- 34 Keys
 
 # BOM
 These are links to what I bought, not necessary to get exactly the same

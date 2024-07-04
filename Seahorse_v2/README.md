@@ -1,4 +1,9 @@
 # The Seahorse v2 
+- Track point
+- Vic connection (Cannot be used with Track point connection)
+- Battery Switch
+- Battery connector
+- Nice!View Screen pins
 
 34 key keyboard with TP
 
