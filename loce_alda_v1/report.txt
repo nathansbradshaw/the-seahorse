@@ -1,0 +1,11 @@
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-F_Cu.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-B_Cu.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-F_Paste.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-B_Paste.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-F_Silkscreen.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-B_Silkscreen.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-F_Mask.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-B_Mask.gbr'.
+Plotted to '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-Edge_Cuts.gbr'.
+Created Gerber job file '/home/nathan/Documents/GitHub/the-seahorse/loce_alda_v1/roadrunner_v2_Gerber/loce_alda_v1_0_0-job.gbrjob'.
+Info: Done.

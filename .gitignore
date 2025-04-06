@@ -26,3 +26,60 @@ fp-info-cache
 *.csv
 
 *roadrunner*.zip
+
+
+# Backup files
+*.bak
+*.bck
+*.tmp
+*.sav
+
+# Autosave files
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_sch-prl
+
+# Cache and temporary files
+*.net
+*.xml
+*.dcm
+*-cache.lib
+*.pro
+fp-info-cache
+sym-lib-table
+fp-lib-table
+*.kicad_prl
+
+# Gerber and fabrication outputs
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.drl
+*.map
+*.csv
+*.pdf
+*.pos
+
+# KiCad 3D model files
+*.wrl
+*.step
+*.stp
+
+# Simulation files
+*.ac
+*.dc
+*.noise
+*.four
+*.tran
+*.cir
+*.log
+*~*
+*_autosave*
+*/*-backups/*
+*/#auto_saved_files#

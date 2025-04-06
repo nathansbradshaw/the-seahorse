@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.2,
-          "width": 3.2
+          "drill": 3.3,
+          "height": 3.3,
+          "width": 3.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -54,8 +54,42 @@
       },
       "diff_pair_dimensions": [],
       "drc_exclusions": [
-        "footprint_type_mismatch|254520000|50275000|0555221a-0039-4fff-930b-906650d0d0fb|00000000-0000-0000-0000-000000000000",
-        "footprint_type_mismatch|41850000|50415000|a75e85f1-edd2-4948-8f5b-4e0fe075b343|00000000-0000-0000-0000-000000000000"
+        "clearance|50990000|61160000|20a85cd8-95cf-4490-bc6a-1d1bdd85a16a|7a3e29f5-6bfb-46a0-a28a-0e6fd22f21b4",
+        "copper_edge_clearance|246072500|49345000|0174a68e-2d0b-4462-873b-bc51712405ca|b79fa089-c8b2-4c7f-bfdf-5bd37b0c43d2",
+        "copper_edge_clearance|246072500|49590000|0174a68e-2d0b-4462-873b-bc51712405ca|db1047f4-53d7-49fe-a026-44e6e0a02781",
+        "copper_edge_clearance|246072500|51250000|0174a68e-2d0b-4462-873b-bc51712405ca|4ede55e5-7932-4851-a395-05f3fa781495",
+        "copper_edge_clearance|246072500|51600000|0174a68e-2d0b-4462-873b-bc51712405ca|8e1bd89b-d85a-45c3-a834-a1a17195ace7",
+        "copper_edge_clearance|253990000|61260000|593fc658-7363-475a-a10e-33d73de4a2b7|5f83735b-f23a-42ef-9e12-dbfe76e71eeb",
+        "copper_edge_clearance|254345000|61260000|593fc658-7363-475a-a10e-33d73de4a2b7|85bb8d36-8a5f-405e-9a5f-fac5008380a4",
+        "copper_edge_clearance|255480000|61260000|593fc658-7363-475a-a10e-33d73de4a2b7|95110051-23ac-4750-83aa-2ace70ca3f3b",
+        "copper_edge_clearance|255700000|61260000|593fc658-7363-475a-a10e-33d73de4a2b7|a125497d-ca26-4c67-b443-3ab206474a55",
+        "copper_edge_clearance|41000000|94350000|e344d7c4-e1ea-4c9a-b462-f74158929be3|4530460e-aff0-4748-8f03-c5f67c8b294b",
+        "copper_edge_clearance|42055000|49346500|c58be418-a809-4830-99d6-464fb4c954fd|e21cf51c-39b3-4428-b6dc-70eb39a2af24",
+        "copper_edge_clearance|42055000|49615000|c58be418-a809-4830-99d6-464fb4c954fd|b5c1767a-80cb-4a85-b349-ef85c8e8477c",
+        "copper_edge_clearance|42055000|51251500|c58be418-a809-4830-99d6-464fb4c954fd|0b803ace-e032-4416-b7b3-65cbb2ea9802",
+        "copper_edge_clearance|42055000|51520000|c58be418-a809-4830-99d6-464fb4c954fd|a33da5d7-6797-43ed-8c56-44a0059924d3",
+        "copper_edge_clearance|50070000|61250000|da58169f-1b70-461f-9018-3fb877afc69e|20a85cd8-95cf-4490-bc6a-1d1bdd85a16a",
+        "copper_edge_clearance|50310000|61250000|da58169f-1b70-461f-9018-3fb877afc69e|1e260958-c4a9-4278-b582-e696e289eee3",
+        "copper_edge_clearance|51682861|61252548|3ce74fac-1567-4cff-a98c-35ba030ccc0c|7a3e29f5-6bfb-46a0-a28a-0e6fd22f21b4",
+        "copper_edge_clearance|52215000|61367349|3ce74fac-1567-4cff-a98c-35ba030ccc0c|a18b1f4e-0cdb-422b-8f43-b28604fbc1a0",
+        "courtyards_overlap|133015000|86575000|e007b18d-701a-4643-90f0-511a08f81693|f5695b8d-d487-4550-9a9b-e363b5b09ecd",
+        "courtyards_overlap|167730000|86735000|0243139f-f6c1-4baf-bd0a-b7317b8d2c86|e857cd7a-cb43-4b17-aa1d-d372c9bf3a5e",
+        "courtyards_overlap|221381015|54707000|f03a8315-ea6f-477f-95df-a69cee4148ba|738e614e-3b29-42a0-ba2b-b2cdfca4a119",
+        "courtyards_overlap|221730000|60001365|7d8f08f1-db1e-48ab-8bb7-27c332017da0|f03a8315-ea6f-477f-95df-a69cee4148ba",
+        "courtyards_overlap|224240000|54564524|caa4a84c-0fb8-4e6c-b736-6f9ce34ef437|f03a8315-ea6f-477f-95df-a69cee4148ba",
+        "courtyards_overlap|225569792|58707000|79f39bf5-86a4-4cec-93b8-e89660966f89|f03a8315-ea6f-477f-95df-a69cee4148ba",
+        "courtyards_overlap|70557719|57077000|22a2d7ca-1a1b-4dd3-accf-3fee09527087|a5038167-054f-4527-a944-25a801380719",
+        "courtyards_overlap|72471000|59402267|22a2d7ca-1a1b-4dd3-accf-3fee09527087|72fe3672-d225-4411-9655-ee45a70274a6",
+        "courtyards_overlap|74995000|53980059|22a2d7ca-1a1b-4dd3-accf-3fee09527087|d78e69a6-6847-4011-9b83-bc9ef5b405c8",
+        "courtyards_overlap|76453503|56037000|22a2d7ca-1a1b-4dd3-accf-3fee09527087|461ac681-b669-427c-94bd-99911ffeb22a",
+        "text_on_edge_cuts|148230000|50250000|af456510-2517-4b8d-b4ec-c8d355893966|00000000-0000-0000-0000-000000000000",
+        "text_on_edge_cuts|148230000|54350000|1dff0426-ed5f-4afa-9ba8-870e4fb1b330|00000000-0000-0000-0000-000000000000",
+        "text_on_edge_cuts|148280000|77460000|ba205832-1236-4eb1-a07d-597dffee5fb7|00000000-0000-0000-0000-000000000000",
+        "text_on_edge_cuts|148280000|81560000|ad0cc822-a39f-465e-9019-de916a4b7090|00000000-0000-0000-0000-000000000000",
+        "via_dangling|253990000|61110000|5f83735b-f23a-42ef-9e12-dbfe76e71eeb|00000000-0000-0000-0000-000000000000",
+        "via_dangling|256060000|61130000|95110051-23ac-4750-83aa-2ace70ca3f3b|00000000-0000-0000-0000-000000000000",
+        "via_dangling|50070000|61140000|20a85cd8-95cf-4490-bc6a-1d1bdd85a16a|00000000-0000-0000-0000-000000000000",
+        "via_dangling|51910000|61180000|7a3e29f5-6bfb-46a0-a28a-0e6fd22f21b4|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -437,10 +471,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "keystone_10440"
+    ]
   },
   "meta": {
-    "filename": "seahorse_v2_0_0.kicad_pro",
+    "filename": "loce_alda_v1_0_0.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -475,7 +511,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "roadrunner_v2_Gerber/",
       "pos_files": "",
       "specctra_dsn": "roadrunner.dsn",
       "step": "roadrunner.step",
@@ -486,6 +522,65 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
+    "bom_fmt_presets": [],
+    "bom_fmt_settings": {
+      "field_delimiter": ",",
+      "keep_line_breaks": false,
+      "keep_tabs": false,
+      "name": "CSV",
+      "ref_delimiter": ",",
+      "ref_range_delimiter": "",
+      "string_delimiter": "\""
+    },
+    "bom_presets": [],
+    "bom_settings": {
+      "exclude_dnp": false,
+      "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
+        }
+      ],
+      "filter_string": "",
+      "group_symbols": true,
+      "name": "Grouped By Value",
+      "sort_asc": true,
+      "sort_field": "Reference"
+    },
+    "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
       "dashed_lines_gap_length_ratio": 3.0,
@@ -499,6 +594,11 @@
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
+      "operating_point_overlay_i_precision": 3,
+      "operating_point_overlay_i_range": "~A",
+      "operating_point_overlay_v_precision": 3,
+      "operating_point_overlay_v_range": "~V",
+      "overbar_offset_ratio": 1.23,
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.15
     },
@@ -524,6 +624,7 @@
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
     "spice_save_all_currents": false,
+    "spice_save_all_dissipations": false,
     "spice_save_all_voltages": false,
     "subpart_first_id": 65,
     "subpart_id_separator": 0
@@ -531,7 +632,7 @@
   "sheets": [
     [
       "38afb63f-a36a-44ef-87ae-e0923e053e07",
-      ""
+      "Root"
     ]
   ],
   "text_variables": {}
